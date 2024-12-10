@@ -105,7 +105,8 @@ const App = () => {
                 }}>
                 {categories.map((item, index) => <div key={index}><Checkbox
                     onChange={() => handleAddCategory(item.name)}
-                    key={index}>{item.name}</Checkbox></div>)}
+                    key={index}>
+                        <span className="flex"><span className={`box ${item.id}-background`}></span> {item.name} </span></Checkbox></div>)}
             </div>
             {triger &&
                 <div className="data-list">
