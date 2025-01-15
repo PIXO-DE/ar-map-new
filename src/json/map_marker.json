@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "Station 1 - Thomas-Müntzer-Denkmal ",
+    "title": "Thomas Müntzer: Denkmal und Geschichte",
     "description": "Capture the beauty of nature with this breathtaking mountain view.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -13,7 +13,7 @@
   },
   {
     "id": "2",
-    "title": "Station 2 Museum St. Marien | Müntzergedenkstätte",
+    "title": "Der Ewige Bund: Aufstand unter dem Symbol des Regenbogens",
     "description": "Start your day right with these warm, fluffy pancakes.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -25,7 +25,7 @@
   },
   {
     "id": "3",
-    "title": "Station 3 Allerheiligenkirche",
+    "title": "Im Schatten des Revoluzzers: Heinrich Pfeiffer, Wegbegleiter Thomas Müntzers",
     "description": "A perfect way to kickstart your day with peace and flexibility.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -37,7 +37,7 @@
   },
   {
     "id": "4",
-    "title": "Station 4 Bauernkriegsmuseum",
+    "title": "Der Marsch nach Frankenhausen und die Schlacht von 1525",
     "description": "Create a workspace that inspires productivity and creativity.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -49,7 +49,7 @@
   },
   {
     "id": "5",
-    "title": "Station 5 Rathaus",
+    "title": "Thomas Müntzer und der Ewige Rat von Mühlhausen",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -61,7 +61,7 @@
   },
   {
     "id": "6",
-    "title": "Station 6 Kulturhistorisches Museum",
+    "title": "Zerstörung der Heiligenbilder: Der Bildersturm in Mühlhausen",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -73,7 +73,7 @@
   },
   {
     "id": "7",
-    "title": "Station 7 Wohnhaus",
+    "title": "Thomas Müntzer in Mühlhausen: Vom Pfarrer zum Aufständischen",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -85,7 +85,7 @@
   },
   {
     "id": "8",
-    "title": "Station 8 Antoniushospital",
+    "title": "Pikantes Mauerloch: Skandal am Hospitalturm",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Müntzer-Tour",
     "categorie_id": "tour-1",
@@ -97,7 +97,7 @@
   },
   {
     "id": "9",
-    "title": "Station 1 Felchtaer Tor",
+    "title": "Das Felchtaer Tor: Mühlhausens „Troja-Moment“",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
@@ -109,11 +109,11 @@
   },
   {
     "id": "10",
-    "title": "Station 2 Spendegraben (Lindenbühl)",
+    "title": "Die Große Spende: Mühlhausens Erinnerungskultur",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser2.jpg",
     "position": {
       "lat": 51.206182828977745,
       "lon": 10.455061501203993
@@ -121,11 +121,11 @@
   },
   {
     "id": "11",
-    "title": "Station 3 Burgstelle",
+    "title": "Mühlhausen und die Zerstörung der königlichen Burg",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser2.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser3.jpg",
     "position": {
       "lat": 51.211769085992245,
       "lon": 10.461534452581061
@@ -133,11 +133,11 @@
   },
   {
     "id": "12",
-    "title": "Station 4 Inneres Frauentor",
+    "title": "Mittelalterliche Strafen: Der Stadtverweis",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser3.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser4.jpg",
     "position": {
       "lat": 51.2095266196237,
       "lon": 10.450961544254909
@@ -145,11 +145,11 @@
   },
   {
     "id": "13",
-    "title": "Station 5 Rabenturm",
+    "title": "Mühlhausen 1802: Die Übergabe an Preußen und der Fall des Doppeladlers",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser4.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser5.jpg",
     "position": {
       "lat": 51.21021597731322,
       "lon": 10.450831331040314
@@ -157,11 +157,11 @@
   },
   {
     "id": "14",
-    "title": "Station 6 Garten- und Lusthäuschen",
+    "title": "Romantik auf dem Schutzwall: Garten- und Lusthäuser an der Stadtmauer",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser5.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser6.jpg",
     "position": {
       "lat": 51.21142953848421,
       "lon": 10.45333508710358
@@ -169,11 +169,11 @@
   },
   {
     "id": "15",
-    "title": "Station 7 Jakobikirche/Lentzeplatz",
+    "title": "Die Mühlhäuser Stadtmauer: Geschichte und Wandel",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser6.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser7.jpg",
     "position": {
       "lat": 51.20755997258269,
       "lon": 10.452758228944596
@@ -181,11 +181,11 @@
   },
   {
     "id": "16",
-    "title": "Station 8 Antoniushospital",
+    "title": "Das Blidenviertel: Mühlhausen und die mittelalterliche Belagerungswaffe",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser7.jpg",
+    "imageUrl": "./images/ar_web_tour_2_overview_teaser8.jpg",
     "position": {
       "lat": 51.210330966383815,
       "lon": 10.452202537913752
@@ -193,7 +193,7 @@
   },
   {
     "id": "17",
-    "title": "Station 9 Rathaus",
+    "title": "Rathaus",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "Mittelalterliche Reichsstadt-Tour",
     "categorie_id": "tour-2",
@@ -205,7 +205,7 @@
   },
   {
     "id": "18",
-    "title": "Station 1 Rathaus",
+    "title": "Johann Sebastian Bach in Mühlhausen: Selbstbewusster Amtsantritt",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
     "categorie_id": "tour-3",
@@ -217,7 +217,7 @@
   },
   {
     "id": "19",
-    "title": "Station 2 Museum St. Marien | Müntzergedenkstätte",
+    "title": "Johann Sebastian Bach: Die Ratswechselkantate in Mühlhausen",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
     "categorie_id": "tour-3",
@@ -229,7 +229,7 @@
   },
   {
     "id": "20",
-    "title": "Station 3 Divi-Blasii-Kirche",
+    "title": "Frühe Station eines Genies:  Johann Sebastian Bach in der Divi-Blasii-Kirche",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
     "categorie_id": "tour-3",
@@ -241,7 +241,7 @@
   },
   {
     "id": "21",
-    "title": "Station 4 Kirche des Brückenklosters",
+    "title": "Bach, Wender und die Orgel der Brückenkirche",
     "description": "Explore the latest gadgets and innovations in the tech world.",
     "category": "J.S. Bach-Tour",
     "categorie_id": "tour-3",
