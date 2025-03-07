@@ -90,7 +90,7 @@ const App = () => {
                                 iconSize: [32, 32],
                                 iconAnchor: [16, 32],
                                 popupAnchor: [0, -32],
-                            })} key={index} position={[item.position.lat, item.position.lon]} />
+                            })} key={index} position={[item.position.lat,item.position.lon]} />
                 )}
             </MapContainer>
             <div className="category-list"
@@ -140,9 +140,9 @@ const App = () => {
                                         <div className="links ">
                                             <Button onClick={() => {
                                                 if (isAndroid()) {
-                                                    window.open(`google.navigation:q=(${item.position.lat} , ${item.position.lon})&dirflg=w`)
+                                                    window.open(`google.navigation:q=(${item.position.lat},${item.position.lon})&dirflg=w`)
                                                 } else if (isIOS()) {
-                                                    window.open(`https://maps.apple.com/?q=(${item.position.lat},${item.position.lon})&dirflg=w`)
+                                                    window.open(`https://maps.apple.com/?saddr=(${item.position.lat},${item.position.lon})&dirflg=w`)
                                                 } else {
                                                     window.open(`https://www.google.com/maps/@${item.position.lat},${item.position.lon}&dirflg=w`)
                                                 }
