@@ -142,9 +142,9 @@ const App = () => {
                                                 if (isAndroid()) {
                                                     window.open(`google.navigation:q=(${item.position.lat} , ${item.position.lon})&dirflg=w`)
                                                 } else if (isIOS()) {
-                                                    window.open(`https://maps.apple.com/?q=(${item.position.lat} , ${item.position.lon})&dirflg=w`)
+                                                    window.open(`https://maps.apple.com/?q=(${item.position.lat},${item.position.lon})&dirflg=w`)
                                                 } else {
-                                                    window.open(`https://www.google.com/maps/@${item.position.lat} , ${item.position.lon}&dirflg=w`)
+                                                    window.open(`https://www.google.com/maps/@${item.position.lat},${item.position.lon}&dirflg=w`)
                                                 }
                                             }} className={`mainbutton ${item.categorie_id}`}>
                                                <span style={{color: "white"}}> zur Routenführung </span>
