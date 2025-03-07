@@ -7,8 +7,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser1.jpg",
     "position": {
-      "lat": 51.20982665151769,
-      "lon": 10.451197690872831
+      "lat":51.20982665151769,
+      "lon":10.451197690872831
     }
   },
   {
@@ -19,8 +19,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser2.jpg",
     "position": {
-      "lat": 51.21012528385237,
-      "lon": 10.454590052103224
+      "lat":51.21012528385237,
+      "lon":10.454590052103224
     }
   },
   {
@@ -31,8 +31,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser3.jpg",
     "position": {
-      "lat": 51.20989343446181,
-      "lon": 10.462028552379396
+      "lat":51.20989343446181,
+      "lon":10.462028552379396
     }
   },
   {
@@ -43,8 +43,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser4.jpg",
     "position": {
-      "lat": 51.2082521338739,
-      "lon": 10.457043621853513
+      "lat":51.2082521338739,
+      "lon":10.457043621853513
     }
   },
   {
@@ -55,8 +55,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser5.jpg",
     "position": {
-      "lat": 51.20890344784336,
-      "lon": 10.456263961747167
+      "lat":51.20890344784336,
+      "lon":10.456263961747167
     }
   },
   {
@@ -67,8 +67,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser6.jpg",
     "position": {
-      "lat": 51.206488801286945,
-      "lon": 10.457606174556165
+      "lat":51.206488801286945,
+      "lon":10.457606174556165
     }
   },
   {
@@ -79,8 +79,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser7.jpg",
     "position": {
-      "lat": 51.20983049304438,
-      "lon": 10.454655847191338
+      "lat":51.20983049304438,
+      "lon":10.454655847191338
     }
   },
   {
@@ -91,8 +91,8 @@
     "categorie_id": "tour-1",
     "imageUrl": "./images/ar_web_tour_1_overview_teaser8.jpg",
     "position": {
-      "lat": 51.210330966383815,
-      "lon": 10.452202537913752
+      "lat":51.210330966383815,
+      "lon":10.452202537913752
     }
   },
   {
@@ -103,8 +103,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser.jpg",
     "position": {
-      "lat": 51.207103306270156,
-      "lon": 10.454008230348453
+      "lat":51.207103306270156,
+      "lon":10.454008230348453
     }
   },
   {
@@ -115,8 +115,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser2.jpg",
     "position": {
-      "lat": 51.206182828977745,
-      "lon": 10.455061501203993
+      "lat":51.206182828977745,
+      "lon":10.455061501203993
     }
   },
   {
@@ -127,20 +127,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser3.jpg",
     "position": {
-      "lat": 51.211769085992245,
-      "lon": 10.461534452581061
-    }
-  },
-  {
-    "id": "12",
-    "title": "Mittelalterliche Strafen: Der Stadtverweis",
-    "description": "Achten Sie auf den AR-Erlebnis-Hinweis mit QR-Code auf dem Würfel auf der Stele",
-    "category": "Mittelalterliche Reichsstadt-Tour",
-    "categorie_id": "tour-2",
-    "imageUrl": "./images/ar_web_tour_2_overview_teaser4.jpg",
-    "position": {
-      "lat": 51.2095266196237,
-      "lon": 10.450961544254909
+      "lat":51.211769085992245,
+      "lon":10.461534452581061
     }
   },
   {
@@ -151,8 +139,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser5.jpg",
     "position": {
-      "lat": 51.21021597731322,
-      "lon": 10.450831331040314
+      "lat":51.21021597731322,
+      "lon":10.450831331040314
     }
   },
   {
@@ -163,8 +151,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser6.jpg",
     "position": {
-      "lat": 51.21142953848421,
-      "lon": 10.45333508710358
+      "lat":51.21142953848421,
+      "lon":10.45333508710358
     }
   },
   {
@@ -175,8 +163,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser7.jpg",
     "position": {
-      "lat": 51.20755997258269,
-      "lon": 10.452758228944596
+      "lat":51.20755997258269,
+      "lon":10.452758228944596
     }
   },
   {
@@ -187,20 +175,8 @@
     "categorie_id": "tour-2",
     "imageUrl": "./images/ar_web_tour_2_overview_teaser8.jpg",
     "position": {
-      "lat": 51.210330966383815,
-      "lon": 10.452202537913752
-    }
-  },
-  {
-    "id": "17",
-    "title": "Rathaus",
-    "description": "Achten Sie auf den AR-Erlebnis-Hinweis mit QR-Code auf dem Würfel auf der Stele gegenüber der Tourist-Info",
-    "category": "Mittelalterliche Reichsstadt-Tour",
-    "categorie_id": "tour-2",
-    "imageUrl": "https://plus.unsplash.com/premium_photo-1682310071124-33632135b2ee",
-    "position": {
-      "lat": 51.20887886277148,
-      "lon": 10.456268763078473
+      "lat":51.210330966383815,
+      "lon":10.452202537913752
     }
   },
   {
@@ -211,8 +187,8 @@
     "categorie_id": "tour-3",
     "imageUrl": "./images/ar_web_tour_3_overview_teaser.jpg",
     "position": {
-      "lat": 51.20887886277148,
-      "lon": 10.456268763078473
+      "lat":51.20887886277148,
+      "lon":10.456268763078473
     }
   },
   {
@@ -223,8 +199,8 @@
     "categorie_id": "tour-3",
     "imageUrl": "./images/ar_web_tour_3_overview_teaser2.jpg",
     "position": {
-      "lat": 51.20991614317381,
-      "lon": 10.455288884677474
+      "lat":51.20991614317381,
+      "lon":10.455288884677474
     }
   },
   {
@@ -235,8 +211,8 @@
     "categorie_id": "tour-3",
     "imageUrl": "./images/ar_web_tour_3_overview_teaser3.jpg",
     "position": {
-      "lat": 51.20728186091517,
-      "lon": 10.4581692615037
+      "lat":51.20728186091517,
+      "lon":10.4581692615037
     }
   },
   {
@@ -247,8 +223,8 @@
     "categorie_id": "tour-3",
     "imageUrl": "./images/ar_web_tour_3_overview_teaser4.jpg",
     "position": {
-      "lat": 51.20943624378997,
-      "lon": 10.460064806327203
+      "lat":51.20943624378997,
+      "lon":10.460064806327203
     }
   },
   {
@@ -259,8 +235,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s1.jpg",
     "position": {
-      "lat": 51.206951466088185,
-      "lon": 10.453138392832681
+      "lat":51.206951466088185,
+      "lon":10.453138392832681
     }
   },
   {
@@ -271,8 +247,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s2.jpg",
     "position": {
-      "lat": 51.216900234532226,
-      "lon": 10.451053257934854
+      "lat":51.216900234532226,
+      "lon":10.451053257934854
     }
   },
   {
@@ -283,8 +259,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s3.jpg",
     "position": {
-      "lat": 51.21035289708648,
-      "lon": 10.455529762990942
+      "lat":51.21035289708648,
+      "lon":10.455529762990942
     }
   },
   {
@@ -295,8 +271,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s4.jpg",
     "position": {
-      "lat": 51.209392502462485,
-      "lon": 10.446832419067551
+      "lat":51.209392502462485,
+      "lon":10.446832419067551
     }
   },
   {
@@ -307,8 +283,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s5.jpg",
     "position": {
-      "lat": 51.210330966383815,
-      "lon": 10.452202537913752
+      "lat":51.210330966383815,
+      "lon":10.452202537913752
     }
   },
   {
@@ -319,8 +295,8 @@
     "categorie_id": "tour-4",
     "imageUrl": "./images/s6.jpg",
     "position": {
-      "lat": 51.2095266196237,
-      "lon": 10.450961544254909
+      "lat":51.2095266196237,
+      "lon":10.450961544254909
     }
   }
 ]
